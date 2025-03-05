@@ -3,6 +3,7 @@
 AI Sol Agent is an advanced Web3 chatbot template that enables natural language interactions with the Solana blockchain. Built with Next.js and integrated with LangChain and OpenAI, this template allows developers to create sophisticated blockchain applications with conversational AI capabilities.
 
 ## Live Demo
+https://ai-sol1-q6qooab9f-jatins-projects-a736ea0a.vercel.app/landing
 
 ## Features
 
@@ -71,10 +72,12 @@ AI Sol Agent is an advanced Web3 chatbot template that enables natural language 
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-Landing-Page.png" alt="Screenshot 4" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-PK.png" alt="Screenshot 1" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-chat1.png" alt="Screenshot 2" width="400"></td>
-      <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-chat2.png" alt="Screenshot 4" width="400"></td>
+    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-Landing-Page.png" alt="Screenshot 4" width="800"></td>
+    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-PK.png" alt="Screenshot 1" width="800"></td>
+<tr>
+</tr>
+    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-chat1.png" alt="Screenshot 2" width="800"></td>
+    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-chat2.png" alt="Screenshot 4" width="800"></td>
   </tr>
 </table>
 
